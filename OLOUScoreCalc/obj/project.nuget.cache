@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "5tgL+L9zk8NKHlCTcFtaK7H5M3ycTBIoTwEF81frgHGTo6loSn44PCXu7e71f+fjj+tioRakwFZKSpdx5oU+Sg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Justin\\source\\repo\\OLOUScoreCalc\\OLOUScoreCalc\\OLOUScoreCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Justin\\.nuget\\packages\\iof.xml.v3\\1.0.0\\iof.xml.v3.1.0.0.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-preview.6.23329.7\\microsoft.extensions.configuration.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.configuration.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0-preview.6.23329.7\\microsoft.extensions.configuration.binder.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-preview.6.23329.7\\microsoft.extensions.dependencyinjection.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0-preview.6.23329.7\\microsoft.extensions.logging.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.logging.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.logging.configuration\\8.0.0-preview.6.23329.7\\microsoft.extensions.logging.configuration.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.logging.console\\8.0.0-preview.6.23329.7\\microsoft.extensions.logging.console.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-preview.6.23329.7\\microsoft.extensions.options.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0-preview.6.23329.7\\microsoft.extensions.options.configurationextensions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.6.23329.7\\microsoft.extensions.primitives.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\system.text.encodings.web\\8.0.0-preview.6.23329.7\\system.text.encodings.web.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\system.text.json\\8.0.0-preview.6.23329.7\\system.text.json.8.0.0-preview.6.23329.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Justin\\source\\repo\\OLOUScoreCalc\\OLOUScoreCalc\\OLOUScoreCalc.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Justin\\source\\repo\\OLOUScoreCalc\\OLOUScoreCalc\\OLOUScoreCalc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Justin\\source\\repo\\OLOUScoreCalc\\OLOUScoreCalc\\OLOUScoreCalc.csproj",
+        "projectName": "OLOUScoreCalc",
+        "projectPath": "c:\\Users\\Justin\\source\\repo\\OLOUScoreCalc\\OLOUScoreCalc\\OLOUScoreCalc.csproj",
+        "packagesPath": "C:\\Users\\Justin\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Justin\\source\\repo\\OLOUScoreCalc\\OLOUScoreCalc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Justin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "IOF.XML.V3": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0-preview.6.23329.7, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[8.0.0-preview.6.23329.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
